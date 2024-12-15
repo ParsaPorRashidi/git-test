@@ -25,3 +25,10 @@ print("HI")
 4. json
 
 - Finish :/
+
+--- 
+
+# BUT!!
+![Discord image](https://cdn.discordapp.com/icons/1193486334698991726/94af3da61e39578afb0afba9cb7ca54b.png?size=1024)
+
+[Here is Our discord](https://discord.gg/QC8yV4uW)
